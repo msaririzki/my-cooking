@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "528639390524",
+    "project_id": "cobagit1",
+    "storage_bucket": "cobagit1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528639390524:android:6e504d2180addd61ad2439",
+        "android_client_info": {
+          "package_name": "com.example.flutter_complete_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjEmh8SLYGiwtWelU4O9A5-6_g_AknoT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
